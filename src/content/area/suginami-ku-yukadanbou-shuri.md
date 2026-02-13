@@ -26,12 +26,7 @@ keywords: ["杉並区 床暖房 修理", "杉並区 床暖房 費用", "杉並�
 
 ※料金は機種・設置状況・修理内容により変動。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応。確定率81%。見積もり無料で安心。杉並区内の施工実績も豊富です。</p>
-<a href="#" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区の床暖房事情と地域特性
 
@@ -65,12 +60,7 @@ keywords: ["杉並区 床暖房 修理", "杉並区 床暖房 費用", "杉並�
 
 以上の4点を押さえた上で、複数の業者から見積もりを取り、比較検討することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応。確定率81%。見積もり無料で安心。杉並区内の施工実績も豊富です。</p>
-<a href="#" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問
 
@@ -96,12 +86,7 @@ keywords: ["杉並区 床暖房 修理", "杉並区 床暖房 費用", "杉並�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応。確定率81%。見積もり無料で安心。杉並区内の施工実績も豊富です。</p>
-<a href="#" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 杉並区で床暖房の修理を検討しているなら、まずは無料見積もりで費用を確認することをおすすめします。即日対応可能か、保証内容は充実しているか、追加費用はないかを確認し、納得のいく業者を選びましょう。
 

@@ -30,12 +30,7 @@ keywords: ["船橋市 トイレ修理", "船橋市 トイレ つまり 費用", 
 
 ※料金は機種・設置状況・修理内容により変動。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>水道救急センター</h3>
-<p>船橋市全域で24時間体制の対応を行うサービスです。つまりや水漏れの緊急時に相談しやすく、出張費を含めた明確な見積もりが特徴です。</p>
-<a href="https://www.water-rescue.com" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 船橋市の水道事情とトイレ修理の地域特性
 
@@ -63,12 +58,7 @@ keywords: ["船橋市 トイレ修理", "船橋市 トイレ つまり 費用", 
 4. **保証と出張費の透明性**
    修理後の不具合時に無償対応するか、出張費は見積もりに含まれるか、深夜割増がいくらかを明記してもらうと、比較時のブレを抑えられます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>トイレ修理にも対応しており、船橋市全域で即日修理の相談を受け付けています。部品交換か便器交換か、修理方法の提案をもらいやすいサービスです。</p>
-<a href="https://kyutoki-kaketsuke.jp" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -89,12 +79,7 @@ keywords: ["船橋市 トイレ修理", "船橋市 トイレ つまり 費用", 
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>クジラのマークの水道屋さん</h3>
-<p>千葉県内で長年の実績を持つサービスです。トイレ修理だけでなく、給排水全般の相談も受け付けており、複数の修理方法から提案をもらいやすいです。</p>
-<a href="https://www.kujira-mizudo.jp" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 船橋市のトイレ修理は、地域による対応格差と故障の種類を把握することが重要です。水漏れやつまりなら即日修理、便器交換なら工事期間を含めて3～5社の見積もりを比較すると、費用と工期の見通しが立ちやすくなります。
 

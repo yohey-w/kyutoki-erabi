@@ -76,12 +76,7 @@ keywords: ["世田谷区 ガス給湯器 交換 費用", "世田谷区 給湯器
 
 給湯器の設置には**ガス機器設置スペシャリスト**などの資格が必要です。無資格の業者が設置すると、ガス漏れや一酸化炭素中毒のリスクがあります。業者を選ぶ際は、有資格者が施工することを確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理・給湯器交換</h3>
-<p>最短即日対応。確定率81%。世田谷区対応。見積もり無料。</p>
-<a href="#" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## よくある質問（FAQ）
 
@@ -119,9 +114,4 @@ keywords: ["世田谷区 ガス給湯器 交換 費用", "世田谷区 給湯器
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理・給湯器交換</h3>
-<p>最短即日対応。確定率81%。世田谷区対応。見積もり無料。</p>
-<a href="#" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->

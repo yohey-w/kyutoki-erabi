@@ -28,12 +28,7 @@ keywords: ["大田区 ガス給湯器 交換", "大田区 給湯器交換 費用
 
 見積もり時は「標準工事に何が含まれるか」「ガス種変更時の追加工事」「再訪問費の有無」を同時に確認してください。大田区ではプロパンガス地域も多いため、「都市ガスへの切替」といった特殊工事も視野に入ります。実際の現場では、既存ガス配管の規格確認後に金額が動くことがあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>大田区の給湯器交換相談で多く利用されています。ガス種・号数・現在の設置場所の写真を先に共有すると、訪問前の確認が進めやすくなります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大田区の地域特性と給湯器事情
 
@@ -77,12 +72,7 @@ keywords: ["大田区 ガス給湯器 交換", "大田区 給湯器交換 費用
 
 給湯器故障は生活に直結します。営業時間外の対応が可能か、緊急時の連絡先を確認します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>大田区での即日対応・緊急対応の相談に向いています。現在の給湯器の型番と故障症状を先に伝えると、対応可否の判断がスムーズになります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">ガス救に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 
 ## よくある質問（FAQ）
@@ -107,12 +97,7 @@ keywords: ["大田区 ガス給湯器 交換", "大田区 給湯器交換 費用
 
 在庫と訪問枠が合えば対応できる場合があります。ただし、管理組合への申請や作業時間制限がある建物では翌日以降になることもあります。特に大型連休前後は混雑しやすいため、早めの問い合わせがおすすめです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>大田区で複数機種の見積もり・相談で多く利用されています。現在の給湯器の型番・号数と設置写真を共有すると、対応可否の確認と見積もりが進みやすくなります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">給湯器駆けつけ隊に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ：大田区で給湯器交換を進める流れ
 

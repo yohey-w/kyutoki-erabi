@@ -26,12 +26,7 @@ keywords: ["横浜市 水漏れ修理", "横浜市 水漏れ修理 費用", "横
 
 ※料金は水漏れの箇所・程度・設置状況により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>横浜市の水漏れ修理対応で相談しやすいサービスです。漏水箇所の写真と現在の状況を先に共有すると、訪問前の確認が進めやすくなります。最短即日対応で対応可能な場合があります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 横浜市の給排水事情と水漏れ発生パターン
 
@@ -61,12 +56,7 @@ keywords: ["横浜市 水漏れ修理", "横浜市 水漏れ修理 費用", "横
 **4. 保証期間と再施工条件**
 修理後に同じ箇所で再トラブルが起きた場合、保証期間内なら無料で対応するか、再訪問費用は無料か等を事前確認します。1年以上の保証があると安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>横浜市での水漏れ修理で迅速な対応を求める方向けのサービスです。電話連絡時に漏水箇所と現在の状況を簡潔に伝えると、訪問準備がスムーズになります。給排水トラブル全般に対応しています。</p>
-<a href="https://example.com/gas-kyuu" class="cta-button" rel="nofollow sponsored" target="_blank">ガス救に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（水漏れ修理について）
 
@@ -85,12 +75,7 @@ keywords: ["横浜市 水漏れ修理", "横浜市 水漏れ修理 費用", "横
 #### Q5. 賃貸住宅の場合、誰が修理費を負担しますか？
 通常は大家さんの負担です。ただし、入居者の過失による破損は入居者負担になります。修理が必要な場合は、まず大家さんか管理会社に報告してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>水漏れ修理で複数業者を比較したい方向けのサービスです。見積もり前に「修理か交換か」の判断を求めると、費用計画が立てやすくなります。24時間対応で横浜市全域をカバーしています。</p>
-<a href="https://example.com/kyutoki-kaketuketai" class="cta-button" rel="nofollow sponsored" target="_blank">給湯器駆けつけ隊に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ：横浜市で水漏れ修理を進める流れ
 

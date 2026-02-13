@@ -25,12 +25,7 @@ keywords: ["杉並区 ウォシュレット 修理", "杉並区 温水洗浄便�
 
 ※料金は故障箇所・機種・作業時間により変動します。最新情報は各業者の公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応。無料見積もりで費用を確認できます。</p>
-<a href="#" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 失敗しないウォシュレット修理業者の選び方
 
@@ -83,12 +78,7 @@ keywords: ["杉並区 ウォシュレット 修理", "杉並区 温水洗浄便�
 
 一方、購入から5年以内で単純な故障であれば、修理で十分対応できます。メーカー保証が残っている場合は、まずメーカーに問い合わせるのがおすすめです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応。無料見積もりで費用を確認できます。</p>
-<a href="#" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 杉並区でウォシュレット修理業者を呼ぶ際の注意点
 
@@ -139,9 +129,4 @@ keywords: ["杉並区 ウォシュレット 修理", "杉並区 温水洗浄便�
 ※本記事にはアフィリエイト広告が含まれます。
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応。無料見積もりで費用を確認できます。</p>
-<a href="#" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->

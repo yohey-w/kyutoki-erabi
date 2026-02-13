@@ -28,12 +28,7 @@ keywords: ["三鷹市 水漏れ修理", "三鷹市 水漏れ修理 費用", "三
 
 ※料金は機種・設置状況・修理内容により変動。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>三鷹市で給湯器関連の水漏れ修理に対応。最短即日訪問、見積もり無料。水漏れ箇所の特定から部品交換・本体交換まで一貫対応が可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 三鷹市の住宅タイプと水漏れ特性
 
@@ -66,12 +61,7 @@ keywords: ["三鷹市 水漏れ修理", "三鷹市 水漏れ修理 費用", "三
 
 複数業者に見積もりを依頼し、総額・保証・対応時間を比較すると、適正価格と信頼性のバランスを判断しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>三鷹市内の水漏れ修理に対応。全国対応で即日訪問可能、見積もり無料。給湯器・水栓・トイレなど、箇所を問わず幅広く対応しています。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">ガス救に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -97,12 +87,7 @@ keywords: ["三鷹市 水漏れ修理", "三鷹市 水漏れ修理 費用", "三
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>三鷹市の水漏れ修理・給湯器交換に対応。24時間対応、工事保証10年。リンナイ・ノーリツ・パロマなど主要メーカーに対応し、部品交換から本体交換まで一貫サポートが可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">給湯器駆けつけ隊に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 三鷹市で水漏れ修理を依頼する際は、即日対応の可否、見積もりの透明性、保証内容を確認してから業者を選ぶことが重要です。給湯器からの水漏れか、蛇口・トイレからの水漏れかで費用と緊急度が変わるため、まずは無料見積もりで箇所と修理内容を特定することをおすすめします。
 

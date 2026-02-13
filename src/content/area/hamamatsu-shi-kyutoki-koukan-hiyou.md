@@ -28,12 +28,7 @@ keywords: ["浜松市 給湯器交換 費用", "浜松市 給湯器交換 おす
 
 ※料金は機種・設置状況・修理内容により変動。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>浜松市の給湯器交換・エコキュート修理に対応。最短即日訪問、見積もり無料。ガス給湯器からエコキュートへの交換提案まで、幅広い選択肢を提供しています。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 浜松市の給湯器事情と地域特性
 
@@ -66,12 +61,7 @@ keywords: ["浜松市 給湯器交換 費用", "浜松市 給湯器交換 おす
 
 複数業者に見積もりを依頼し、費用・対応時間・保証内容を比較することで、適正価格で信頼できる業者を見つけやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器交換をお考えなら</h3>
-<p>浜松市での給湯器交換は、信頼できる業者への相談がスタート。最短即日対応、見積もり無料のサービスを活用して、納得のいく交換を実現してください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">給湯器交換の無料相談をする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -97,12 +87,7 @@ keywords: ["浜松市 給湯器交換 費用", "浜松市 給湯器交換 おす
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>浜松市の給湯器交換ならお気軽に相談</h3>
-<p>給湯器の交換・修理は、信頼できる業者への相談が成功のカギ。無料見積もりで費用を確認し、複数社の提案を比較することで、ご家庭に最適なプランが見つかります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料相談を依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 浜松市で給湯器の交換を検討している場合、交換費用の相場を把握し、信頼できる業者に依頼することが重要です。即日対応の可否、見積もりの透明性、保証内容を確認してから業者を選ぶことで、快適で安心な給湯環境を実現できます。
 

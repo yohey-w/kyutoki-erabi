@@ -26,12 +26,7 @@ keywords: ["世田谷区 食洗機 修理", "世田谷区 食洗機 故障", "�
 
 世田谷区は都心に近く出張費が抑えられる反面、駐車場事情が悪いエリアでは追加料金が発生することもあります。見積もり時に必ず確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート・水回り修理</h3>
-<p>最短即日対応。確定率81%。見積もり無料で安心。世田谷区全域対応。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5500000&p_id=3500&pc_id=8500&pl_id=50000" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 食洗機修理業者の選び方3つのポイント
 
@@ -71,12 +66,7 @@ keywords: ["世田谷区 食洗機 修理", "世田谷区 食洗機 故障", "�
 
 無料見積もり・出張費無料のサービスを中心に、複数社に相談することで適正価格を把握しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート・水回り修理</h3>
-<p>最短即日対応。確定率81%。見積もり無料。世田谷区全域カバー。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5500000&p_id=3500&pc_id=8500&pl_id=50000" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -106,11 +96,6 @@ keywords: ["世田谷区 食洗機 修理", "世田谷区 食洗機 故障", "�
 
 まずは無料見積もりで費用を確認し、複数社を比較することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート・水回り修理</h3>
-<p>最短即日対応。確定率81%。見積もり無料。世田谷区全域対応。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5500000&p_id=3500&pc_id=8500&pl_id=50000" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

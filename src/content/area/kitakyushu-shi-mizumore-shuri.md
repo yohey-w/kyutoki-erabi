@@ -28,12 +28,7 @@ keywords: ["北九州市 水漏れ修理", "北九州市 水漏れ 費用", "北
 
 見積もり時は「出張費」「深夜早朝料金」「部品代」が別建てかどうかを確認してください。総額表示と内訳表示では、後から追加費用が出る確率が変わります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>北九州市内の水漏れ修理に対応。給湯器周辺の配管トラブルも相談可能です。最短即日対応で、見積もり後のキャンセルも可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとで無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 北九州市の水道事情と水漏れ発生の傾向
 
@@ -65,12 +60,7 @@ keywords: ["北九州市 水漏れ修理", "北九州市 水漏れ 費用", "北
 
 格安を謳う業者の中には、出張費・部品代・作業費を後から追加請求するケースがあります。総額がいくらになるかを書面で確認してから契約するのが確実です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>北九州市全域対応。24時間365日受付で、深夜でも駆けつけ可能です。福岡県水道局指定工事店で、施工後の保証も充実しています。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとで相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -96,12 +86,7 @@ keywords: ["北九州市 水漏れ修理", "北九州市 水漏れ 費用", "北
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>北九州市内の水漏れ修理に迅速対応。見積もり無料で、作業前に料金を提示してくれるため、追加費用の心配が少ないです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとで無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 北九州市で水漏れ修理を依頼する際は、まず複数の業者から見積もりを取り、費用・対応スピード・保証内容を比較することが重要です。福岡県水道局指定工事店かどうか、施工後の保証が何年ついているかを確認すると、安心して任せられます。
 

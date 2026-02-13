@@ -28,12 +28,7 @@ keywords: ["杉並区 食洗機 修理", "杉並区 食洗機 交換", "杉並�
 
 ※上記の料金は目安です。機種・設置状況・修理内容により変動します。最新情報は各業者の公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応。食洗機・給湯器など水回りトラブル全般に対応。無料見積もりで費用を確認できます。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=PLACEHOLDER&p_id=PLACEHOLDER" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 食洗機修理業者の選び方4つのポイント
 
@@ -67,12 +62,7 @@ keywords: ["杉並区 食洗機 修理", "杉並区 食洗機 交換", "杉並�
 
 交換の場合も同様に、本体保証と工事保証の内容を確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>確定率81%の実績。食洗機・給湯器など水回りトラブル全般に対応。無料見積もりで費用を確認できます。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=PLACEHOLDER&p_id=PLACEHOLDER" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 食洗機の故障サインと寿命の目安
 
@@ -137,11 +127,6 @@ keywords: ["杉並区 食洗機 修理", "杉並区 食洗機 交換", "杉並�
 
 まずは無料見積もりで費用を確認することをおすすめします。複数の業者に見積もりを取ることで、適正価格が見えてきます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応。食洗機・給湯器など水回りトラブル全般に対応。確定率81%の実績。無料見積もりで費用を確認できます。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=PLACEHOLDER&p_id=PLACEHOLDER" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は各業者の公式サイトでご確認ください。

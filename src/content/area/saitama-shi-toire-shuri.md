@@ -26,12 +26,7 @@ keywords: ["さいたま市 トイレ修理", "さいたま市 トイレ修理 �
 
 ※料金は機種・設置状況・修理内容により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>トイレ110番</h3>
-<p>さいたま市のトイレ修理で即日対応を希望する場合、最初に相談しやすいサービスです。故障内容を簡潔に伝えると、見積もり対応が進みやすくなります。</p>
-<a href="https://example.com/toilet110" class="cta-button" rel="nofollow sponsored" target="_blank">トイレ110番に無料相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## さいたま市のトイレ修理事情と地域特性
 
@@ -57,12 +52,7 @@ keywords: ["さいたま市 トイレ修理", "さいたま市 トイレ修理 �
 4. **施工保証と再修理条件**
    修理後に同じ部位で再度不具合が出た場合の対応や、保証期間の長さを確認します。工事保証が長いほど、業者の施工品質に対する自信が表れています。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>水道救急センター</h3>
-<p>さいたま市内のトイレ修理で複数社から見積もりを取りたい場合、選択肢に入れやすいサービスです。配管状況の写真を事前に共有すると、出張前の確認がスムーズになります。</p>
-<a href="https://example.com/water-rescue" class="cta-button" rel="nofollow sponsored" target="_blank">水道救急センターに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（トイレ修理について）
 
@@ -78,12 +68,7 @@ keywords: ["さいたま市 トイレ修理", "さいたま市 トイレ修理 �
 #### Q4. トイレ交換の場合、工事にはどのくらい時間がかかりますか？
 便器とウォシュレットの交換なら1〜2時間程度で完了することが多いです。配管工事や床の補修が必要な場合は半日から丸一日かかることもあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>クラシアン</h3>
-<p>さいたま市でトイレ交換を検討する際に比較候補に入れやすいサービスです。現在のトイレの型番と使用年数を事前に伝えると、交換プランの提案がスムーズになります。</p>
-<a href="https://example.com/kusutian" class="cta-button" rel="nofollow sponsored" target="_blank">クラシアンの無料相談をする →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ：さいたま市でトイレ修理を進める流れ
 

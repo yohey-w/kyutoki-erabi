@@ -28,12 +28,7 @@ keywords: ["熊本市 給湯器交換 費用", "熊本市 給湯器交換 おす
 
 ※料金は機種・設置状況・修理内容により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応をうたうサービスです。熊本市での給湯器交換・水漏れ修理に対応。見積もりは無料で、設置状況を事前に伝えると精度が上がります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 熊本市の給湯器事情と地域特性
 
@@ -59,12 +54,7 @@ keywords: ["熊本市 給湯器交換 費用", "熊本市 給湯器交換 おす
 **4. 追加費用の明示**
 見積もり段階で、出張費・見積もり費用・深夜料金など追加料金の有無を明確に確認しておきましょう。工事当日に「配管延長が必要」「既設機器の劣化対応」などで費用が増額することもあるため、事前に条件をそろえて複数社に見積もりを取ることをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>24時間365日対応で、熊本市全域への出張に対応しています。工事保証10年で、トラブル対応も安心です。問い合わせから施工まで一貫対応が特徴です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">給湯器駆けつけ隊に無料相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問
 
@@ -90,12 +80,7 @@ keywords: ["熊本市 給湯器交換 費用", "熊本市 給湯器交換 おす
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>全国対応で熊本市にも対応しており、見積もり無料です。即日対応の相談から交換まで、スムーズに対応してもらえます。急な給湯器トラブルの際はまずは相談してみてください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">ガス救に相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 熊本市の給湯器交換は、料金比較だけでなく、地域特有の施工条件（ガス種・建物タイプ）と業者の対応体制を前提にした準備が重要です。見積もり時に条件をそろえ、保証内容と追加費用の基準を明確にしておくことで、急な故障時でも判断しやすくなります。
 

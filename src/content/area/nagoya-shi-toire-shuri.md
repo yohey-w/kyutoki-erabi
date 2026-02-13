@@ -26,12 +26,7 @@ keywords: ["名古屋市 トイレ修理", "名古屋市 給湯器交換 おす�
 
 ※料金は機種・設置状況・修理内容により変動。最新情報は公式サイトでご確認ください
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>名古屋市内の水回りトラブル・給湯器交換に幅広く対応。最短即日対応で、見積もり無料。エコキュート・ガス給湯器の両方に対応可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 名古屋市の水回り事情と地域特性
 
@@ -57,12 +52,7 @@ keywords: ["名古屋市 トイレ修理", "名古屋市 給湯器交換 おす�
 
 業者選びでは、複数社から見積もりを取り、対応スピード・保証内容・追加費用を比較することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>全国対応、名古屋市内も訪問可能。即日対応・見積もり無料で、給湯器交換・水漏れ修理に幅広く対応します。24時間受付で急なトラブルにも対応可能です。</p>
-<a href="#" class="cta-button" rel="nofollow sponsored" target="_blank">ガス救に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -88,12 +78,7 @@ keywords: ["名古屋市 トイレ修理", "名古屋市 給湯器交換 おす�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>24時間対応、工事保証10年で安心。名古屋市内の給湯器交換・トイレ修理に対応可能です。見積もり無料で、複数メーカーの取り扱いがあります。</p>
-<a href="#" class="cta-button" rel="nofollow sponsored" target="_blank">給湯器駆けつけ隊に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 名古屋市でトイレ修理や給湯器交換を依頼する際は、即日対応の可否・保証期間・追加費用の有無を確認することが重要です。複数社から見積もりを取り、対応内容と料金を比較してから依頼先を決めましょう。まずは無料見積もりで費用を確認することをおすすめします。
 

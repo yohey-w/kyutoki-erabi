@@ -24,12 +24,7 @@ keywords: ["静岡市 トイレ修理", "静岡市 トイレ修理 費用", "静
 
 ※料金は修理箇所・部品代・出張費により変動します。静岡市内でも地域によって出張費が異なる場合があります。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>給湯関連トラブルから水周り修理まで、静岡市内で最短即日対応。経験豊富な有資格者が丁寧に対応し、見積もりは無料です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 静岡市のトイレ事情と地域特性
 
@@ -49,12 +44,7 @@ keywords: ["静岡市 トイレ修理", "静岡市 トイレ修理 費用", "静
 
 4. **出張費・見積費用の確認**: 「見積もりが無料か有料か」「出張費が含まれるか別途請求か」を必ず確認します。複数社から見積もりを取る際は、この条件を統一して比較することが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>水道工事の有資格者が対応。静岡市内で最短即日に駆けつけます。見積もり無料、追加費用の心配もありません。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問
 
@@ -80,12 +70,7 @@ keywords: ["静岡市 トイレ修理", "静岡市 トイレ修理 費用", "静
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>静岡市内で給湯・水周りのトラブル対応に強い業者です。無料見積もり・最短即日駆けつけで、安心が得られます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 静岡市でトイレ修理が必要になったら、まずは複数の業者から無料見積もりを取ることをおすすめします。見積もりを比較することで、相場を把握でき、信頼できる業者を選べます。即日対応・有資格者・保証制度を備えた業者であれば、突然のトラブルでも安心です。
 

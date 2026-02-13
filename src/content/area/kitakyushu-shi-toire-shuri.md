@@ -26,12 +26,7 @@ keywords: ["北九州市 トイレ修理", "北九州市 トイレ つまり", "
 
 北九州市でよく見かけるのは、古い団地や一軒家での配管腐食トラブルです。特に戸畑区・八幡西区の築30年超の住宅では、排水管の詰まりが頻発します。また、工業地帯に近い地域は水質の影響で部品の劣化が早まる傾向があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>北九州市全域対応。トイレ詰まり・水漏れを即日または翌日に対応。見積もり完全無料で、追加費用がないか事前に電話で確認できます。年間実績2,000件以上。</p>
-<a href="https://af.moshimo.com/" class="cta-button" rel="nofollow sponsored" target="_blank">ガス救で無料見積もり →</a>
-</div>
+<!-- CTA:top -->
 
 ## 北九州市の地域別トイレ修理事情と対応の違い
 
@@ -53,12 +48,7 @@ keywords: ["北九州市 トイレ修理", "北九州市 トイレ つまり", "
 
 築10〜20年の比較的新しい住宅が多く、深刻なトラブルは少ない傾向です。ただし、郊外のため修理業者の到着が他区より遅れることもあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>24時間365日対応で、北九州市のトイレ修理・給湯器トラブルに迅速対応。工事保証10年付きで、修理後のトラブルも手厚いフォロー。深夜対応も可能（料金別途）。</p>
-<a href="https://af.moshimo.com/" class="cta-button" rel="nofollow sponsored" target="_blank">給湯器駆けつけ隊で相談 →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 北九州市のトイレ修理業者を選ぶ際の重要なチェック項目
 
@@ -78,12 +68,7 @@ keywords: ["北九州市 トイレ修理", "北九州市 トイレ つまり", "
 
    「工事保証1年」など明記されていると、修理後に同じ箇所の再発時に無料対応してもらえます。ただし、保証期間の「開始時期」（修理完了日か請求日か）を確認しておくと、後でトラブルになりません。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応で、トイレ・給湯器・水漏れなど水回り全般に対応。見積もり段階で総額を明示し、追加費用の説明を丁寧に行う業者です。確定率が高く、信頼性が評判。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに見積もり依頼 →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問：北九州市のトイレトラブルについて
 
@@ -109,12 +94,7 @@ keywords: ["北九州市 トイレ修理", "北九州市 トイレ つまり", "
 
 ## まとめ：北九州市でトイレ修理業者を選ぶ際の最重要ポイント
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>北九州市全域で年間実績豊富。トイレ・給湯器・水回り全般に対応し、見積もり無料・出張費無料で安心です。緊急時の24時間対応体制も整備。</p>
-<a href="https://af.moshimo.com/" class="cta-button" rel="nofollow sponsored" target="_blank">ガス救で相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 北九州市でトイレ修理業者を選ぶ際は、以下3点を重視しましょう：
 

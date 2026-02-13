@@ -26,12 +26,7 @@ keywords: ["新潟市 トイレ修理", "新潟市 給湯器交換 おすすめ"
 
 ※料金は機種・設置状況・修理内容により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>新潟市全域対応。給湯器やトイレ修理は即日対応が可能です。見積もり無料で、プロの診断をお気軽にご相談ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 新潟市の給湯器事情と地域特性
 
@@ -57,12 +52,7 @@ keywords: ["新潟市 トイレ修理", "新潟市 給湯器交換 おすすめ"
 
 **総括：** 給湯器交換やトイレ修理は生活に直結する重要な工事です。複数の業者から見積もりを取り、対応速度・保証・評判を総合的に判断しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>新潟市内で24時間対応。給湯器・トイレ修理は工事保証10年で安心です。有資格者による確実な施工をお約束します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">24時間無料相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -88,12 +78,7 @@ keywords: ["新潟市 トイレ修理", "新潟市 給湯器交換 おすすめ"
 
 ## 新潟市で給湯器・トイレ修理をお考えなら
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>エコキュート専門の修理・交換。新潟市での施工実績豊富です。最短即日対応で、冬季のトラブルも安心です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを申し込む →</a>
-</div>
+<!-- CTA:bottom -->
 
 新潟市で給湯器やトイレの修理・交換をお考えでしたら、まずは複数の業者に無料見積もりを依頼することをおすすめします。業者ごとに価格・対応速度・保証内容が異なるため、比較検討が重要です。冬季は故障が集中するため、早めの対応が結果的にコストセーバーになります。
 

@@ -28,12 +28,7 @@ keywords: ["福岡市 給湯器交換 費用", "福岡市 給湯器交換 おす
 
 見積もり時は「標準工事に何が含まれるか」「追加費用が出る条件」「再訪問費の有無」を同時に確認してください。実際の現場では、搬入制限や配管状態の確認後に金額が動くことがあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>福岡市の交換相談で比較候補に入れやすいサービスです。型番・設置写真・希望日を先に共有すると、訪問前の確認が進めやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 福岡市の住宅タイプ別で変わる工事ポイント
 
@@ -58,12 +53,7 @@ keywords: ["福岡市 給湯器交換 費用", "福岡市 給湯器交換 おす
 3. **保証範囲と再訪問条件**
    本体保証と工事保証の年数、再不具合時の出張費負担を確認します。交換後のフォロー条件まで見ておくと、価格差の意味が分かりやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>急ぎで交換したいときに候補に入れやすいサービスです。建物条件を先に伝えると、追加費用の確認がしやすくなります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">ガス救に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -87,12 +77,7 @@ keywords: ["福岡市 給湯器交換 費用", "福岡市 給湯器交換 おす
 
 福岡市は年間気温が高めですが、故障期間が長いと生活への影響は大きくなります。修理で対応できるか交換が必要か、早期に専門家に相談することをお勧めします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>メーカー対応範囲を比較しながら検討したいときに相談しやすいサービスです。型番と設置場所の写真を共有すると、対応可否の確認が進みやすくなります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">給湯器駆けつけ隊に相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ（福岡市で交換を進める流れ）
 

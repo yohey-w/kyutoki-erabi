@@ -28,12 +28,7 @@ keywords: ["相模原市 トイレ修理 費用", "相模原市 給湯器交換 
 
 ※料金は機種・設置状況・修理内容により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【きゅっと エコキュート修理】</h3>
-<p>相模原市で緊急のエコキュート・給湯器トラブルに対応。最短即日修理で、確定率81%の信頼実績。無料見積もりで詳細な料金を確認できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 相模原市のトイレ・給湯器事情と地域特性
 
@@ -59,12 +54,7 @@ TOTO、INAX、パナソニック、給湯器ではリンナイ・ノーリツ・
 **4. 口コミと実績数**
 Google口コミやホットペッパーなどで、利用者の評判を確認することをお勧めします。「作業が丁寧」「説明が分かりやすい」という評価が多い業者は、信頼度が高い傾向です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【エコキュート・給湯器修理なら きゅっと】</h3>
-<p>相模原市対応の緊急修理サービス。年間実績豊富で、丁寧な対応と適切な料金が評判です。無料の事前見積もりで納得いく料金を確認してから施工に進めます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを受け取る →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -92,11 +82,6 @@ Google口コミやホットペッパーなどで、利用者の評判を確認�
 
 相模原市でトイレや給湯器の修理が必要な場合は、まずは無料見積もりを複数の業者に依頼することをお勧めします。料金比較を通じて、相場感を把握することができます。緊急時でも、焦らず複数社に問い合わせることで、適切な料金と高い品質の工事を両立させることが可能です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【きゅっと エコキュート修理】</h3>
-<p>相模原市で給湯器・エコキュート修理をお探しなら。最短即日対応で、年間3,000件以上の修理実績があります。無料見積もりから施工まで、透明な料金体系でご対応します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

@@ -25,12 +25,7 @@ keywords: ["三鷹市 給湯器交換 おすすめ", "三鷹市 給湯器交換 
 
 見積もり取得時は「総額に何が含まれるか」を確認し、配管延長・排気管交換・既設機器処分が追加費用になるかチェックすることが大切です。三鷹駅周辺の集合住宅と、大沢・牟礼エリアの戸建てでは搬出条件が異なるため、住まいのタイプを先に業者に伝えると精度が上がります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>三鷹市での給湯器交換は、型番と設置環境の事前確認で追加費用を最小化できます。複数メーカー対応で即日対応が可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 三鷹市で給湯器交換おすすめ業者5選
 
@@ -62,12 +57,7 @@ keywords: ["三鷹市 給湯器交換 おすすめ", "三鷹市 給湯器交換 
 **4. 有資格者の確認**
    ガス機器設置スペシャリストなど、給湯器工事の資格を持つ作業員が施工するかを確認。有資格者による施工は品質と安全性の保証になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>三鷹市での急ぎ対応が必要な場合、地域密着型で即日対応が可能な業者との事前相談が有効です。複数業者で見積もり条件をそろえると判断基準が明確になります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379001&p_id=0000&pc_id=0000&pl_id=00000" class="cta-button" rel="nofollow sponsored" target="_blank">ガス救に無料相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 

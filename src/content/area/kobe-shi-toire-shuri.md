@@ -34,12 +34,7 @@ keywords: ["神戸市 トイレ修理", "神戸市 トイレ修理 費用", "神
 
 ※料金は修理内容、便器タイプ、建物構造により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市対応のトイレ修理相談窓口</h3>
-<p>修理内容を伝えると、概算費用と到着見込みをまとめて確認できます。</p>
-<a href="https://kyutoki-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 神戸市のトイレ事情と地域特性
 
@@ -77,12 +72,7 @@ keywords: ["神戸市 トイレ修理", "神戸市 トイレ修理 費用", "神
 
 複数社に電話して比較すると、より安心して依頼できる業者が見つかります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>追加料金の条件を比較したい方へ</h3>
-<p>神戸市対応の修理業者を確認し、条件をそろえて依頼先を選べます。</p>
-<a href="https://kyutoki-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -111,12 +101,7 @@ keywords: ["神戸市 トイレ修理", "神戸市 トイレ修理 費用", "神
 トイレの軽微な詰まりなら管理会社の承認なく対応できることが多いですが、大規模工事や便器交換は事前確認が必須です。
 契約書で指定業者が決まっていないか確認してから業者に連絡すると、後のトラブルを防げます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市のトイレ修理を今すぐ相談する</h3>
-<p>修理費用の目安と到着見込みを確認し、比較したうえで依頼先を選べます。</p>
-<a href="https://kyutoki-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談窓口を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

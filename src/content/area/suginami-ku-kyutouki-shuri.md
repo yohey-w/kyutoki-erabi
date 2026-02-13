@@ -26,12 +26,7 @@ keywords: ["杉並区 給湯器 修理", "杉並区 給湯器 おすすめ", "�
 
 杉並区は都心に近く出張費が抑えられる反面、駐車場事情が悪いエリアでは追加料金が発生することもあります。見積もり時に必ず確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応。確定率81%。見積もり無料で安心。杉並区全域対応。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5500000&p_id=3500&pc_id=8500&pl_id=50000" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 給湯器業者の選び方3つのポイント
 
@@ -76,12 +71,7 @@ keywords: ["杉並区 給湯器 修理", "杉並区 給湯器 おすすめ", "�
 
 平日であれば即日対応可能な業者が見つかりやすいです。ただし、土日祝日や繁忙期は予約が埋まっていることもあるため、複数社に問い合わせることをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>最短即日対応。確定率81%。見積もり無料。杉並区全域カバー。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5500000&p_id=3500&pc_id=8500&pl_id=50000" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## まとめ
 

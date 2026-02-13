@@ -28,12 +28,7 @@ keywords: ["札幌市 水漏れ修理", "札幌市 水漏れ 応急処置", "札
 
 見積もり時は「出張費の有無」「夜間割増の有無」「再訪問費」を必ず確認してください。札幌市の冬季は配管凍結の可能性も聞いておくと、費用予測の精度が上がります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>札幌市での即日対応を重視する場合、比較候補に入れやすいサービスです。朝・昼・夜間いずれでも対応可能か、出張費の有無を先に確認しておくと依頼がスムーズになります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">ガス救に相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 札幌市の住宅環境と水漏れリスク
 
@@ -61,12 +56,7 @@ keywords: ["札幌市 水漏れ修理", "札幌市 水漏れ 応急処置", "札
 4. **保証と再発防止**
    修理後の保証期間、再度漏水が発生した場合の対応ルールを確認。冬季の凍結対策アドバイスをもらえるかも重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>給湯器関連の水漏れを含め、複合的な判定が必要な場合に相談しやすいサービスです。札幌市内のどのエリアが対応可能か、冬季の凍結対応経験の有無を確認するといいでしょう。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379000&p_id=3500&pc_id=8400&pl_id=49600" class="cta-button" rel="nofollow sponsored" target="_blank">給湯器駆けつけ隊に相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -82,12 +72,7 @@ keywords: ["札幌市 水漏れ修理", "札幌市 水漏れ 応急処置", "札
 #### Q4. 札幌市で配管凍結による漏水は、応急処置でどう対応すればいいですか？
 ドライヤーで温める・タオルで保温するなどの応急処置がありますが、根本的な修理には業者の判定が必要です。早めに業者に連絡し、凍結の可能性を伝えておくことが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>給湯器・温水配管のトラブルで水漏れが発生した場合、対応可能か事前に相談できるサービスです。札幌市での修理経験と凍結対応の有無を確認するといいでしょう。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379001&p_id=3501&pc_id=8401&pl_id=49601" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

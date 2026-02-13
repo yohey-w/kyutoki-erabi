@@ -26,12 +26,7 @@ keywords: ["名古屋市 水漏れ修理", "名古屋市 給湯器交換 おす�
 
 ※料金は機種・設置状況・修理内容により変動。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>名古屋市で水漏れ・給湯器トラブルに即日対応可能なケースもあります。無料見積もりで費用を確認し、複数業者と比較する際の基準として利用できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 名古屋市の給湯器事情と地域特性
 
@@ -57,12 +52,7 @@ keywords: ["名古屋市 水漏れ修理", "名古屋市 給湯器交換 おす�
 
 上記4点を比較したうえで、現地調査時の対応や説明の丁寧さも判断材料になります。複数業者に見積もりを依頼し、条件をそろえて比較する進め方が現実的です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>名古屋市で急ぎの水漏れ修理・給湯器交換に対応可能なケースもあります。建物条件を先に伝えると、追加費用の確認がしやすくなります。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">詳細を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -88,12 +78,7 @@ keywords: ["名古屋市 水漏れ修理", "名古屋市 給湯器交換 おす�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>名古屋市で水漏れ・給湯器トラブルの相談先を探している方向けに、24時間受付・工事保証10年のサービスです。型番と設置場所の写真を共有すると、対応可否の確認が進みやすくなります。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 名古屋市で水漏れ修理や給湯器交換を検討する際は、即日対応の可否、メーカー対応範囲、保証内容を比較することが重要です。まずは無料見積もりで費用を確認し、複数業者の条件をそろえて判断する進め方をおすすめします。
 

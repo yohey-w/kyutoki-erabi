@@ -28,12 +28,7 @@ keywords: ["川崎市 水漏れ修理", "川崎市 水漏れ修理 業者", "川
 
 見積もり時は「作業範囲」「使用部材」「出張費の有無」を明確にしてもらい、追加費用が発生する条件を確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>きゅっと エコキュート修理</h3>
-<p>川崎市の水漏れ相談で比較候補に入れやすいサービスです。漏水箇所の写真・住所・希望日を先に共有すると、訪問前の確認が進めやすくなります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに見積もり依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 川崎市で水漏れ修理業者を選ぶ確認点
 
@@ -51,12 +46,7 @@ keywords: ["川崎市 水漏れ修理", "川崎市 水漏れ修理 業者", "川
 4. **見積もりの詳細性**
    総額だけでなく、部材費・作業費・出張費の内訳を示してもらい、追加費用の発生条件を明記してもらうことが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>ガス救</h3>
-<p>急いで対応したいときに候補に入れやすいサービスです。建物の図面や写真を事前に共有すると、作業スケジュールと費用予測が進みやすくなります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">ガス救に相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -77,12 +67,7 @@ keywords: ["川崎市 水漏れ修理", "川崎市 水漏れ修理 業者", "川
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>給湯器駆けつけ隊</h3>
-<p>複数の修理方法から最適なものを相談したいときに検討しやすいサービスです。漏水の原因が給湯器関連か配管系か判断がつかないとき、専門技術者に診断してもらえます。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">給湯器駆けつけ隊に相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 川崎市で水漏れが発生したら、まず止水栓を確認し、信頼できる修理業者に見積もり依頼することが重要です。複数の業者を比較し、費用・保証・対応スピードを総合的に判断して依頼先を決めましょう。
 
