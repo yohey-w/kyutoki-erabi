@@ -32,7 +32,7 @@ keywords: ["横浜市 給湯器交換 費用", "横浜市 給湯器交換", "横
 <span class="cta-badge">PR</span>
 <h3>きゅっと エコキュート修理</h3>
 <p>最短即日対応で急ぎの交換に対応。横浜市内で工事実績が豊富で、エリア別の費用イメージを伝えやすいサービスです。見積もり・相談は無料です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8BHU+3EMG+5GH9CI" class="cta-button" rel="nofollow sponsored" target="_blank">きゅっとに無料見積もりを依頼する →</a>
 </div>
 
 ## 横浜市の給湯器事情と地域特性
@@ -70,7 +70,7 @@ keywords: ["横浜市 給湯器交換 費用", "横浜市 給湯器交換", "横
 <span class="cta-badge">PR</span>
 <h3>ガス救</h3>
 <p>横浜市全域で即日対応が可能で、見積もりから工事まで一貫した対応が評判です。管理規約が厳しいマンションの対応実績も豊富です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
+<p>アフィリエイト広告リンクは現在準備中です。最新の受付情報は公式案内をご確認ください。</p>
 </div>
 
 ## よくある質問（横浜市での給湯器交換）
@@ -101,7 +101,7 @@ keywords: ["横浜市 給湯器交換 費用", "横浜市 給湯器交換", "横
 <span class="cta-badge">PR</span>
 <h3>給湯器駆けつけ隊</h3>
 <p>横浜市での工事実績が豊富で、メーカー対応範囲を細かく説明してくれる業者です。対応可否の確認が早く進み、安心です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談を申し込む →</a>
+<p>アフィリエイト広告リンクは現在準備中です。最新の受付情報は公式案内をご確認ください。</p>
 </div>
 
 横浜市で給湯器交換を進めるなら、最初に建物情報（住宅タイプ・ガス種・配管状況）を整理し、複数社の見積もりを取ることが重要です。中区・南区の都心部と戸塚・港北の郊外では工事条件が大きく異なるため、地元での施工実績が豊富な業者を選ぶのが現実的です。
