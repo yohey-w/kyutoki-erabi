@@ -4,6 +4,7 @@ description: "世田谷区で評判の良い食洗機修理業者を厳選比較
 publishedAt: "2026-02-14"
 category: "area"
 area: "世田谷区"
+keyword: "世田谷区 食洗機 修理"
 services: ["きゅっと", "水回り修理サービス"]
 keywords: ["世田谷区 食洗機 修理", "世田谷区 食洗機 故障", "世田谷区 食洗機 交換"]
 ---

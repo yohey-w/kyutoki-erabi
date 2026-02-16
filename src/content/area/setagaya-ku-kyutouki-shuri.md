@@ -4,6 +4,7 @@ description: "世田谷区で評判の良い給湯器修理・交換業者を比
 publishedAt: "2026-02-14"
 category: "area"
 area: "世田谷区"
+keyword: "世田谷区 給湯器 修理"
 services: ["きゅっと"]
 keywords: ["世田谷区 給湯器 修理", "世田谷区 給湯器交換 おすすめ", "世田谷区 給湯器 費用"]
 ---

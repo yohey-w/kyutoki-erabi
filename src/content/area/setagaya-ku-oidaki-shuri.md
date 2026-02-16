@@ -4,6 +4,7 @@ description: "世田谷区で評判の良い追い焚き修理業者を厳選比
 publishedAt: "2026-02-14"
 category: "area"
 area: "世田谷区"
+keyword: "世田谷区 追い焚き 修理"
 services: ["きゅっと"]
 keywords: ["世田谷区 追い焚き 修理", "世田谷区 追い焚き 費用", "世田谷区 追い焚き 業者"]
 ---

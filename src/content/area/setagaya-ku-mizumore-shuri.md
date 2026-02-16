@@ -4,7 +4,9 @@ description: "世田谷区で評判の良い水漏れ修理業者を厳選比較
 publishedAt: "2026-02-14"
 category: "area"
 area: "世田谷区"
+keyword: "世田谷区 水漏れ 修理"
 services: ["ガス救", "給湯器駆けつけ隊"]
+noindex: true
 keywords: ["世田谷区 水漏れ 修理", "世田谷区 水漏れ修理 おすすめ", "世田谷区 水漏れ 費用"]
 ---
 

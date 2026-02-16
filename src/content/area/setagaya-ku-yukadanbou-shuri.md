@@ -4,6 +4,7 @@ description: "世田谷区で評判の良い床暖房修理業者を比較。修
 publishedAt: "2026-02-14"
 category: "area"
 area: "世田谷区"
+keyword: "世田谷区 床暖房 修理"
 services: ["きゅっと"]
 keywords: ["世田谷区 床暖房 修理", "世田谷区 床暖房 費用", "世田谷区 床暖房 業者"]
 ---
