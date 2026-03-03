@@ -39,11 +39,11 @@ export const affiliatePrograms = {
 
 export const affiliatePlacements = {
   top: {
-    title: '給湯器トラブルの無料見積もりをすぐ確認',
+    title: '給湯器のトラブル、すぐに相談できます',
     description:
-      '給湯パンダはすぐお湯を出す給湯器トラブル対応サービス。まずは現状の症状を伝えて費用目安を確認しましょう。',
-    buttonText: '給湯パンダに無料見積もりを依頼する →',
-    affiliateUrl: affiliatePrograms.kyutoukiPanda.affiliateUrl,
+      'お湯出ない.comは給湯器の故障・交換に即対応。まずは症状を伝えて費用目安を確認しましょう。',
+    buttonText: 'お湯出ない.comに無料相談する →',
+    affiliateUrl: affiliatePrograms.oyuDenai.affiliateUrl,
     note: PR_NOTE,
   },
   middle: {
