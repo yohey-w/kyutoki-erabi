@@ -23,6 +23,18 @@ export const affiliatePrograms = {
     status: 'active',
     affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AX9GA+7R8G4I+3EMG+5GIBXD',
   },
+  zehitomo: {
+    name: 'ゼヒトモ',
+    network: 'A8',
+    status: 'active',
+    affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AXA8I+53DP9U+5LK4+5YJRM',
+  },
+  oyuDenai: {
+    name: 'お湯出ない.com',
+    network: 'A8',
+    status: 'active',
+    affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AXA8I+3X3VS2+3EMG+5MFT42',
+  },
 };
 
 export const affiliatePlacements = {
@@ -43,11 +55,11 @@ export const affiliatePlacements = {
     note: PR_NOTE,
   },
   bottom: {
-    title: '最後に費用条件と対応可否を再確認',
+    title: '給湯器・リフォームの見積もりを比較',
     description:
-      '工事内容・保証・対応スピードの条件を比較したうえで依頼先を決めると安心です。',
-    buttonText: '給湯パンダの最新情報を確認する →',
-    affiliateUrl: affiliatePrograms.kyutoukiPanda.affiliateUrl,
+      'ゼヒトモは国内最大級の見積もりサイト。給湯器交換からリフォームまで、複数業者の条件をまとめて比較できます。',
+    buttonText: 'ゼヒトモで無料見積もりを比較する →',
+    affiliateUrl: affiliatePrograms.zehitomo.affiliateUrl,
     note: PR_NOTE,
   },
 };
