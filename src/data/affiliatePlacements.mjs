@@ -9,13 +9,6 @@
 const PR_NOTE = '※PR: 本記事にはアフィリエイト広告が含まれます';
 
 export const affiliatePrograms = {
-  kyutoukiPanda: {
-    name: '給湯パンダ',
-    network: 'A8',
-    rewardYen: 0,
-    status: 'active',
-    affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AXA8I+4IJHK2+50EG+HVFKY',
-  },
   kyutto: {
     name: 'きゅっと エコキュート修理',
     network: 'A8',
@@ -39,19 +32,19 @@ export const affiliatePrograms = {
 
 export const affiliatePlacements = {
   top: {
+    title: 'エコキュート修理を急ぐ方へ',
+    description:
+      'きゅっとはエコキュート修理に最短即日対応。故障症状や訪問条件を伝えると、費用目安をすぐ確認できます。',
+    buttonText: 'きゅっとの見積もり条件を見る →',
+    affiliateUrl: affiliatePrograms.kyutto.affiliateUrl,
+    note: PR_NOTE,
+  },
+  middle: {
     title: '給湯器のトラブル、すぐに相談できます',
     description:
       'お湯出ない.comは給湯器の故障・交換に即対応。まずは症状を伝えて費用目安を確認しましょう。',
     buttonText: 'お湯出ない.comに無料相談する →',
     affiliateUrl: affiliatePrograms.oyuDenai.affiliateUrl,
-    note: PR_NOTE,
-  },
-  middle: {
-    title: 'エコキュート修理の相場を確認したい方へ',
-    description:
-      'きゅっとは最短即日対応のエコキュート修理サービス。複数条件を整理しながら比較検討できます。',
-    buttonText: 'きゅっとの見積もり条件を見る →',
-    affiliateUrl: affiliatePrograms.kyutto.affiliateUrl,
     note: PR_NOTE,
   },
   bottom: {
