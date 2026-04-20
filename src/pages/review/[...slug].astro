@@ -12,6 +12,8 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+const slug = entry.id.replace(/\.mdx?$/, '');
+const ogImage = `/images/articles/${slug}-ogp.png`;
 ---
 <BaseLayout
   title={entry.data.title}
@@ -20,6 +22,10 @@ const { Content } = await render(entry);
     { label: '口コミ', href: '/#articles' },
     { label: entry.data.title },
   ]}
+  category="口コミ"
+  publishedAt={entry.data.publishedAt}
+  ogImage={ogImage}
+  entry={entry}
 >
   <article class="article-wrapper">
     <div class="article-meta">
